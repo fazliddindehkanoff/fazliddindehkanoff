@@ -1,1 +1,25 @@
-https://camo.githubusercontent.com/e70c1966b4333bce03b01c15541cf3d2a05a4b00156285de8b926597d6f26da0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636f646572323032306f6666696369616c2673686f775f69636f6e733d74727565267468656d653d7261646963616c
+### Hi there 👋
+
+# About me
+I am from Uzbekistan, Django web developer.
+
+Read my repositories below..
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DehqonovFazliddin&show_icons=true&theme=radical)
+
+
+<!--
+**coder2020official/coder2020official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
