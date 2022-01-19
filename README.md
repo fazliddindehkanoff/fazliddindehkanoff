@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on improving my english skills
 - 🌱 I’m currently learning Basics of AI from IBM courses
 - 💬 Ask me about django, flask, aiogram
-- 📫 How to reach me: @fazliddindehqonov092@gmail.com
+- 📫 How to reach me: fazliddindehqonov092@gmail.com
 
