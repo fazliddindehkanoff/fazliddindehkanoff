@@ -3,5 +3,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DehqonovFazliddin&label=Profile%20views&color=0e75b6&style=flat" alt="DehqonovFazliddin" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap, CSS, Django, PostgreSQL, React, Flask, DRF, FastApi .**
+- 🌱 I’m currently working with ** Django, PostgreSQL, Flask, DRF, FastApi .**
 
