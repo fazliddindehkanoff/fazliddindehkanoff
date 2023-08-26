@@ -15,6 +15,6 @@ Django | Django REST Framework | Python | PostgreSQL | MySQL | Git | RESTful API
 I am committed to writing clean and maintainable code that aligns with industry standards and best practices. I thrive in collaborative environments and value communication and feedback. I'm not just a coder; I'm a problem solver who enjoys tackling challenges head-on.
 
 📬 Let's Connect:
-If you're looking for a Django backend developer who can bring your ideas to life and contribute to the success of your projects, let's connect! Feel free to reach out to me here or via email at fazliddindehkanoff@yandex.com.
+If you're looking for a Django backend developer who can bring your ideas to life and contribute to the success of your projects, let's connect! Feel free to reach out to me here or via email at job.fazliddindehkanoff@gmail.com .
 
 Looking forward to building incredible solutions together! 🎉
