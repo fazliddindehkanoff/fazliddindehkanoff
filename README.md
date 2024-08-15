@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **Upwork**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning about **AWS**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
